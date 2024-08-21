@@ -10,21 +10,21 @@ const projects = [
     description:
       "A simple online version of the classic Simon memory game with a sleek, minimalist design.",
     image: "/simon.png",
-    github: "https://github.com/nishu0tanwar/js-simonGame",
+    github: "https://github.com/nishanttanwarr/js-simonGame",
     link: "https://js-simon-game-iota.vercel.app/",
   },
   {
     name: "Portfolio Website",
     description: "A sophisticated online portfolio built with Next.js, Tailwind CSS, and TypeScript, featuring a polished, modern design that effectively showcases my projects and skills.",
     image: "/portfolio.png",
-    github: "https://github.com/nishu0tanwar/nextjs-portfolio",
+    github: "https://github.com/nishanttanwarr/nextjs-portfolio",
     link: "https://nextjs-portfolio-coral-alpha.vercel.app/",
   },
   {
     name: "To-Do App",
     description: "A Fancy To-Do app made using ReactJS and Vite.",
     image: "/todo.png",
-    github: "https://github.com/nishu0tanwar/fancy-todo-list",
+    github: "https://github.com/nishanttanwarr/fancy-todo-list",
     link: "https://fancy-todo-list-smoky.vercel.app/",
   },
   {
@@ -32,7 +32,7 @@ const projects = [
     description:
       "AI-powered IoT smart camera module revolutionizes surveillance with customizable features, enhancing security across diverse environments.",
     image: "/iot.png",
-    github: "https://github.com/nishu0tanwar/py-iot-Smart-Camera-Module",
+    github: "https://github.com/nishanttanwarr/py-iot-Smart-Camera-Module",
     link: ""
     
   },
