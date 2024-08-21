@@ -14,6 +14,13 @@ const projects = [
     link: "https://js-simon-game-iota.vercel.app/",
   },
   {
+    name: "Portfolio Website",
+    description: "A sophisticated online portfolio built with Next.js, Tailwind CSS, and TypeScript, featuring a polished, modern design that effectively showcases my projects and skills.",
+    image: "/portfolio.png",
+    github: "https://github.com/nishu0tanwar/nextjs-portfolio",
+    link: "https://nextjs-portfolio-coral-alpha.vercel.app/",
+  },
+  {
     name: "To-Do App",
     description: "A Fancy To-Do app made using ReactJS and Vite.",
     image: "/todo.png",
